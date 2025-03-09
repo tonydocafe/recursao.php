@@ -100,7 +100,7 @@ O termo 6 da sequência de Fibonacci é 8
 
 ---
 
-### 6. Contagem de Ocorrências de um Caractere (`contar_ocorrencias.php`)
+### 6. Contagem de Ocorrências de um Caractere (`ocorrencia.php`)
 **Descrição:**
 Conta quantas vezes um determinado caractere aparece em uma string usando recursão.
 
