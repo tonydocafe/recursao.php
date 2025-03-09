@@ -62,7 +62,7 @@ A soma dos dígitos de 1234 é 10
 
 ---
 
-### 4. Inversão de String (`inverter_string.php`)
+### 4. Inversão de String (`invert.php`)
 **Descrição:**
 Inverte uma string usando recursão.
 
